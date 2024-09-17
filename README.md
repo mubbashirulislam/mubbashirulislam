@@ -26,13 +26,16 @@ In parallel, I am deeply involved in **Cybersecurity research**, focusing on und
   <img src="https://img.shields.io/badge/VisualStudioCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
+
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubbashirulislam&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages"/>
+  <br/>
+  
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubbashirulislam&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <br/><br/>
 
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubbashirulislam&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages"/>
-  <br/><br/>
+  
   
   ## 🌐 Socials:
   <a href="https://linkedin.com/in/mubbashirul-islam"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
