@@ -29,6 +29,10 @@ In parallel, I am deeply involved in **Cybersecurity research**, focusing on und
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubbashirulislam&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <br/><br/>
+
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubbashirulislam&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages"/>
+  <br/><br/>
   
   ## 🌐 Socials:
   <a href="https://linkedin.com/in/mubbashirul-islam"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
