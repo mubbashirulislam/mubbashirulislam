@@ -5,26 +5,41 @@
 Hello, I am Mubbashirul — a 24-year-old self-taught Cybersecurity Enthusiast. I have dedicated myself to mastering various aspects of cybersecurity to understand potential threats and vulnerabilities. I focus on studying how different cyberattacks work and applying my knowledge to keep systems safe from malware, privacy breaches, and other online risks. Through personal study and hands-on experience, I aim to develop practical skills that contribute to a safer digital environment.
 
 
-# Languages & Tools:
+### Tools & Technologies for Cybersecurity Research
 
-<img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/> 
-<img src="https://img.shields.io/badge/Kali_Linux-%23black.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/> 
-<img src="https://img.shields.io/badge/Python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/> 
-<img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/> 
-<img src="https://img.shields.io/badge/PowerShell-%23539168.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/> 
-<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
-<img src="https://img.shields.io/badge/SQLAlchemy-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="SQLAlchemy"/> 
-<img src="https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/> 
-<img src="https://img.shields.io/badge/Nmap-%23FFB400.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/> 
-<img src="https://img.shields.io/badge/Wireshark-%232B4BDA.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/> 
-<img src="https://img.shields.io/badge/OpenVAS-%23BEBEBE.svg?style=for-the-badge&logo=openvas&logoColor=white" alt="OpenVAS"/> 
-<img src="https://img.shields.io/badge/Suricata-%236F2C91.svg?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata"/> 
-<img src="https://img.shields.io/badge/OWASP_ZAP-%23E03C31.svg?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/> 
-<img src="https://img.shields.io/badge/Tor-%23000000.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tor"/> 
-<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/> 
-<img src="https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/> 
+- ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) **Linux**: Essential for cybersecurity work, widely used for OSINT and hacking tasks.
+  
+- ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23000000.svg?style=for-the-badge&logo=kali-linux&logoColor=white) **Kali Linux**: Comes pre-installed with tools for OSINT, penetration testing, and security research.
+  
+- ![Python](https://img.shields.io/badge/Python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white) **Python**: A versatile language for writing scripts to automate OSINT data collection and analysis.
+  
+- ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) **Bash**: Linux scripting to automate tasks like scraping websites or processing data.
+
+- ![Metasploit](https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white) **Metasploit**: Tool for testing vulnerabilities and exploiting them to gather intel.
+  
+- ![Nmap](https://img.shields.io/badge/Nmap-%23FFB400.svg?style=for-the-badge&logo=nmap&logoColor=white) **Nmap**: Scans networks to discover hosts and open ports, critical for footprinting in OSINT.
+  
+- ![Wireshark](https://img.shields.io/badge/Wireshark-%232B4BDA.svg?style=for-the-badge&logo=wireshark&logoColor=white) **Wireshark**: Network packet analyzer to understand traffic and detect unusual activity.
+  
+- ![Tor](https://img.shields.io/badge/Tor-%23000000.svg?style=for-the-badge&logo=tor-project&logoColor=white) **Tor**: Anonymizes your internet traffic, critical for private OSINT investigations.
+  
+- ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=virtualbox&logoColor=white) **VirtualBox**: Runs virtual machines to safely conduct OSINT research without compromising your main system.
+
+### OSINT Specific Tools
+
+- ![Maltego](https://img.shields.io/badge/Maltego-%23000000.svg?style=for-the-badge&logo=maltego&logoColor=white) **Maltego**: Visualization tool for relationship mapping, useful in OSINT to track entities and connections.
+  
+- ![Recon-ng](https://img.shields.io/badge/Recon--ng-%23000000.svg?style=for-the-badge&logo=recon-ng&logoColor=white) **Recon-ng**: A web reconnaissance framework that automates gathering information like subdomains, contact info, and credentials.
+
+- ![Shodan](https://img.shields.io/badge/Shodan-%23000000.svg?style=for-the-badge&logo=shodan&logoColor=white) **Shodan**: A search engine for discovering internet-connected devices and gathering public intel about them.
+  
+- ![The Harvester](https://img.shields.io/badge/The_Harvester-%23000000.svg?style=for-the-badge&logo=the-harvester&logoColor=white) **The Harvester**: Scrapes data like email addresses, subdomains, and hosts from public sources.
+
+- ![Spiderfoot](https://img.shields.io/badge/Spiderfoot-%23000000.svg?style=for-the-badge&logo=spiderfoot&logoColor=white) **Spiderfoot**: An OSINT automation tool that collects information from multiple sources and visualizes it for further analysis.
+
+- ![DNSDumpster](https://img.shields.io/badge/DNSDumpster-%23000000.svg?style=for-the-badge&logo=dnsdumpster&logoColor=white) **DNSDumpster**: Performs domain intelligence (DNS reconnaissance) and maps domains to IPs and open ports.
+
+
 
 
 
