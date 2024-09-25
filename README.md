@@ -21,11 +21,9 @@ Hello, I am Mubbashirul — a 24-year-old self-taught Cybersecurity Enthusiast. 
 [![Python](https://img.shields.io/badge/Python-%233573B5.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Maltego](https://img.shields.io/badge/Maltego-%23A6340B.svg?style=for-the-badge&logo=maltego&logoColor=white)](https://www.paterva.com)
-[![Recon-ng](https://img.shields.io/badge/Recon-ng-%232E8B57.svg?style=for-the-badge&logo=recon-ng&logoColor=white)](https://github.com/lanmaster53/recon-ng)
 [![Shodan](https://img.shields.io/badge/Shodan-%230E2B8A.svg?style=for-the-badge&logo=shodan&logoColor=white)](https://www.shodan.io)
 [![The Harvester](https://img.shields.io/badge/The_Harvester-%23E0523E.svg?style=for-the-badge&logo=the-harvester&logoColor=white)](https://github.com/laramies/theHarvester)
 [![Spiderfoot](https://img.shields.io/badge/Spiderfoot-%238A2BE2.svg?style=for-the-badge&logo=spiderfoot&logoColor=white)](https://www.spiderfoot.net)
-[![DNSDumpster](https://img.shields.io/badge/DNSDumpster-%23F8D347.svg?style=for-the-badge&logo=dnsdumpster&logoColor=black)](https://dnsdumpster.com)
 [![Google Dorking](https://img.shields.io/badge/Google_Dorking-%234D88E1.svg?style=for-the-badge)](https://www.google.com)
 [![Social Engineering](https://img.shields.io/badge/Social_Engineering-%23FFA07A.svg?style=for-the-badge)](https://www.social-engineer.org)
 
