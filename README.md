@@ -7,16 +7,17 @@ Hello, I am Mubbashirul — a 24-year-old self-taught Cybersecurity Enthusiast. 
 
   # Tools & Technologies
 
-<img src="https://img.shields.io/badge/Kali_Linux-%23black.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/Nmap-%23FFB400.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-<img src="https://img.shields.io/badge/Wireshark-%232B4BDA.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-<img src="https://img.shields.io/badge/Google_Dorking-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Dorking"/>
-<img src="https://img.shields.io/badge/Maltego-%23FFD700.svg?style=for-the-badge&logo=maltego&logoColor=black" alt="Maltego"/>
-<img src="https://img.shields.io/badge/Shodan-%23FF6F00.svg?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/>
+<img src="https://img.shields.io/badge/Kali_Linux-%23000000.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>  <!-- Black Kali Linux Badge -->
+<img src="https://img.shields.io/badge/Python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  <!-- Python Badge -->
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>  <!-- JavaScript Badge -->
+<img src="https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>  <!-- Black Bash Badge -->
+<img src="https://img.shields.io/badge/Nmap-%23FFB400.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>  <!-- Nmap Badge -->
+<img src="https://img.shields.io/badge/Wireshark-%232B4BDA.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>  <!-- Wireshark Badge -->
+<img src="https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>  <!-- Metasploit Badge -->
+<img src="https://img.shields.io/badge/Google_Dorking-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Dorking"/>  <!-- Google Dorking Badge -->
+<img src="https://img.shields.io/badge/Maltego-%23FFD700.svg?style=for-the-badge&logo=maltego&logoColor=black" alt="Maltego"/>  <!-- Maltego Badge -->
+<img src="https://img.shields.io/badge/Shodan-%23FF6F00.svg?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/>  <!-- Shodan Badge -->
+
 
 
 
