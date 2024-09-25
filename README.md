@@ -7,28 +7,29 @@ Hello, I am Mubbashirul — a 24-year-old self-taught Cybersecurity Enthusiast. 
 
 ### Tools & Technologies for Cybersecurity Research
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-%23black.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Nmap-%23FFB400.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Wireshark-%232B4BDA.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Tor-%23000000.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tor"/>
-  <img src="https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Linux.svg" alt="Linux" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Kali.svg" alt="Kali Linux" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Metasploit.svg" alt="Metasploit" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Nmap.svg" alt="Nmap" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Wireshark.svg" alt="Wireshark" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Tor.svg" alt="Tor" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/VirtualBox.svg" alt="VirtualBox" width="60" height="60"/>
 </div>
 
 ### Tools & Technologies for OSINT
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Maltego-%23000000.svg?style=for-the-badge&logo=maltego&logoColor=white" alt="Maltego"/>
-  <img src="https://img.shields.io/badge/Recon--ng-%23000000.svg?style=for-the-badge&logo=recon-ng&logoColor=white" alt="Recon-ng"/>
-  <img src="https://img.shields.io/badge/Shodan-%23000000.svg?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/>
-  <img src="https://img.shields.io/badge/The_Harvester-%23000000.svg?style=for-the-badge&logo=the-harvester&logoColor=white" alt="The Harvester"/>
-  <img src="https://img.shields.io/badge/Spiderfoot-%23000000.svg?style=for-the-badge&logo=spiderfoot&logoColor=white" alt="Spiderfoot"/>
-  <img src="https://img.shields.io/badge/DNSDumpster-%23000000.svg?style=for-the-badge&logo=dnsdumpster&logoColor=white" alt="DNSDumpster"/>
-  <img src="https://img.shields.io/badge/Google_Dorking-%23000000.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Dorking"/>
-  <img src="https://img.shields.io/badge/Social_Engineering-%23000000.svg?style=for-the-badge&logo=security&logoColor=white" alt="Social Engineering"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Python.svg" alt="Python" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Bash.svg" alt="Bash" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Maltego.svg" alt="Maltego" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Recon-ng.svg" alt="Recon-ng" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Shodan.svg" alt="Shodan" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/The_Harvester.svg" alt="The Harvester" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Spiderfoot.svg" alt="Spiderfoot" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/DNSDumpster.svg" alt="DNSDumpster" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Google.svg" alt="Google Dorking" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Social_Engineering.svg" alt="Social Engineering" width="60" height="60"/>
 </div>
+
 
 
 
