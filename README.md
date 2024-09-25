@@ -12,9 +12,10 @@ Hello, I am Mubbashirul — a 24-year-old self-taught Cybersecurity Enthusiast. 
 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>  <!-- JavaScript Badge -->
 <img src="https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>  <!-- Black Bash Badge -->
 <img src="https://img.shields.io/badge/Nmap-%23FFB400.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>  <!-- Nmap Badge -->
-<img src="https://img.shields.io/badge/Wireshark-%232B4BDA.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>  <!-- Wireshark Badge -->
-<img src="https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>  <!-- Metasploit Badge -->
-<img src="https://img.shields.io/badge/Google_Dorking-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Dorking"/>  <!-- Google Dorking Badge -->
+<img src="https://img.shields.io/badge/Wireshark-%232B4BDA.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/> 
+<img src="https://img.shields.io/badge/Maltego-%23FFD700.svg?style=for-the-badge&logo=maltego&logoColor=black" alt="Maltego"/> <!-- Wireshark Badge --><!-- Metasploit Badge -->
+<img src="https://img.shields.io/badge/Google_Dorking-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Dorking"/> 
+<<img src="https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/> !-- Google Dorking Badge -->
 <img src="https://img.shields.io/badge/Maltego-%23FFD700.svg?style=for-the-badge&logo=maltego&logoColor=black" alt="Maltego"/>  <!-- Maltego Badge -->
 <img src="https://img.shields.io/badge/Shodan-%23FF6F00.svg?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/>  <!-- Shodan Badge -->
 <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>  <!-- VSCode Badge -->
