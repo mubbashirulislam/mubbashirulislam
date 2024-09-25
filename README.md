@@ -6,10 +6,10 @@ Hello, I am Mubbashirul — a 24-year-old self-taught Cybersecurity Enthusiast. 
 
 
 
-## Skills & Expertise
+# Skills & Expertise
 
-### Cybersecurity Research
-[![Linux](https://img.shields.io/badge/-Linux-%23000?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](https://www.linux.org)
+## Cybersecurity Research
+[![Linux](https://img.shields.io/badge/-Linux-%23000000?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](https://www.linux.org)
 [![Kali Linux](https://img.shields.io/badge/-Kali_Linux-%233D8DA8?style=for-the-badge&labelColor=black&logo=kali-linux&logoColor=white)](https://www.kali.org)
 [![Metasploit](https://img.shields.io/badge/-Metasploit-%230E62A4?style=for-the-badge&labelColor=black&logo=metasploit&logoColor=white)](https://www.metasploit.com)
 [![Nmap](https://img.shields.io/badge/-Nmap-%23F65D5D?style=for-the-badge&labelColor=black&logo=nmap&logoColor=white)](https://nmap.org)
@@ -17,7 +17,7 @@ Hello, I am Mubbashirul — a 24-year-old self-taught Cybersecurity Enthusiast. 
 [![Tor](https://img.shields.io/badge/-Tor-%23003399?style=for-the-badge&labelColor=black&logo=tor-project&logoColor=white)](https://www.torproject.org)
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-%23A65E2E?style=for-the-badge&labelColor=black&logo=virtualbox&logoColor=white)](https://www.virtualbox.org)
 
-### OSINT
+## OSINT
 [![Python](https://img.shields.io/badge/-Python-%233573B5?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](https://www.python.org)
 [![Bash](https://img.shields.io/badge/-Bash-%234EAA25?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Maltego](https://img.shields.io/badge/-Maltego-%23A6340B?style=for-the-badge&labelColor=black&logo=maltego&logoColor=white)](https://www.paterva.com)
@@ -26,6 +26,7 @@ Hello, I am Mubbashirul — a 24-year-old self-taught Cybersecurity Enthusiast. 
 [![Spiderfoot](https://img.shields.io/badge/-Spiderfoot-%238A2BE2?style=for-the-badge&labelColor=black&logo=spiderfoot&logoColor=white)](https://www.spiderfoot.net)
 [![Google Dorking](https://img.shields.io/badge/-Google_Dorking-%234D88E1?style=for-the-badge&labelColor=black)](https://www.google.com)
 [![Social Engineering](https://img.shields.io/badge/-Social_Engineering-%23FFA07A?style=for-the-badge&labelColor=black)](https://www.social-engineer.org)
+
 
 
 
