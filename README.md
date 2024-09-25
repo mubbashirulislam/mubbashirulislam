@@ -4,61 +4,26 @@
   #  About Me:
 Hello, I am Mubbashirul — a 24-year-old self-taught Cybersecurity Enthusiast. I have dedicated myself to mastering various aspects of cybersecurity to understand potential threats and vulnerabilities. I focus on studying how different cyberattacks work and applying my knowledge to keep systems safe from malware, privacy breaches, and other online risks. Through personal study and hands-on experience, I aim to develop practical skills that contribute to a safer digital environment.
 
+ # Tools & Technologies
+##Cybersecurity Research
+[![Linux](https://img.shields.io/badge/Linux-%23000%20black.svg?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-%233D8DA8.svg?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org)
+[![Metasploit](https://img.shields.io/badge/Metasploit-%230E62A4.svg?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com)
+[![Nmap](https://img.shields.io/badge/Nmap-%23F65D5D.svg?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
+[![Wireshark](https://img.shields.io/badge/Wireshark-%233DA5E8.svg?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+[![Tor](https://img.shields.io/badge/Tor-%23003399.svg?style=for-the-badge&logo=tor-project&logoColor=white)](https://www.torproject.org)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-%23A65E2E.svg?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org)
 
 
-# Skills & Expertise
-
-## Cybersecurity Research
-<a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Linux-%23000000?style=flat&labelColor=black&logo=linux&logoColor=white" alt="Linux" width="40" height="40"/>
-</a>
-<a href="https://www.kali.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Kali_Linux-%233D8DA8?style=flat&labelColor=black&logo=kali-linux&logoColor=white" alt="Kali Linux" width="40" height="40"/>
-</a>
-<a href="https://www.metasploit.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Metasploit-%230E62A4?style=flat&labelColor=black&logo=metasploit&logoColor=white" alt="Metasploit" width="40" height="40"/>
-</a>
-<a href="https://nmap.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Nmap-%23F65D5D?style=flat&labelColor=black&logo=nmap&logoColor=white" alt="Nmap" width="40" height="40"/>
-</a>
-<a href="https://www.wireshark.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Wireshark-%233DA5E8?style=flat&labelColor=black&logo=wireshark&logoColor=white" alt="Wireshark" width="40" height="40"/>
-</a>
-<a href="https://www.torproject.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Tor-%23003399?style=flat&labelColor=black&logo=tor-project&logoColor=white" alt="Tor" width="40" height="40"/>
-</a>
-<a href="https://www.virtualbox.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-VirtualBox-%23A65E2E?style=flat&labelColor=black&logo=virtualbox&logoColor=white" alt="VirtualBox" width="40" height="40"/>
-</a>
-
-## OSINT
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Python-%233573B5?style=flat&labelColor=black&logo=python&logoColor=white" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Bash-%234EAA25?style=flat&labelColor=black&logo=gnu-bash&logoColor=white" alt="Bash" width="40" height="40"/>
-</a>
-<a href="https://www.paterva.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Maltego-%23A6340B?style=flat&labelColor=black&logo=maltego&logoColor=white" alt="Maltego" width="40" height="40"/>
-</a>
-<a href="https://www.shodan.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Shodan-%230E2B8A?style=flat&labelColor=black&logo=shodan&logoColor=white" alt="Shodan" width="40" height="40"/>
-</a>
-<a href="https://github.com/laramies/theHarvester" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-The_Harvester-%23E0523E?style=flat&labelColor=black&logo=the-harvester&logoColor=white" alt="The Harvester" width="40" height="40"/>
-</a>
-<a href="https://www.spiderfoot.net" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Spiderfoot-%238A2BE2?style=flat&labelColor=black&logo=spiderfoot&logoColor=white" alt="Spiderfoot" width="40" height="40"/>
-</a>
-<a href="https://www.google.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Google_Dorking-%234D88E1?style=flat&labelColor=black" alt="Google Dorking" width="40" height="40"/>
-</a>
-<a href="https://www.social-engineer.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Social_Engineering-%23FFA07A?style=flat&labelColor=black" alt="Social Engineering" width="40" height="40"/>
-</a>
-
-
-
+##OSINT
+[![Python](https://img.shields.io/badge/Python-%233573B5.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Maltego](https://img.shields.io/badge/Maltego-%23A6340B.svg?style=for-the-badge&logo=maltego&logoColor=white)](https://www.paterva.com)
+[![Shodan](https://img.shields.io/badge/Shodan-%230E2B8A.svg?style=for-the-badge&logo=shodan&logoColor=white)](https://www.shodan.io)
+[![The Harvester](https://img.shields.io/badge/The_Harvester-%23E0523E.svg?style=for-the-badge&logo=the-harvester&logoColor=white)](https://github.com/laramies/theHarvester)
+[![Spiderfoot](https://img.shields.io/badge/Spiderfoot-%238A2BE2.svg?style=for-the-badge&logo=spiderfoot&logoColor=white)](https://www.spiderfoot.net)
+[![Google Dorking](https://img.shields.io/badge/Google_Dorking-%234D88E1.svg?style=for-the-badge)](https://www.google.com)
+[![Social Engineering](https://img.shields.io/badge/Social_Engineering-%23FFA07A.svg?style=for-the-badge)](https://www.social-engineer.org)
 
 
 
