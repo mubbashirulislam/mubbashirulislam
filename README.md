@@ -7,25 +7,17 @@ Hello, I am Mubbashirul — a 24-year-old self-taught Cybersecurity Enthusiast. 
 
   # Tools & Technologies 
 
-  <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-%23black.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/PowerShell-%23539168.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Nmap-%23FFB400.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Wireshark-%232B4BDA.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Tor-%23000000.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tor"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
-  <img src="https://img.shields.io/badge/Google_Dorking-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Dorking"/>
-  <img src="https://img.shields.io/badge/Social_Engineering-%23FF6F00.svg?style=for-the-badge&logo=hackerone&logoColor=white" alt="Social Engineering"/>
-  <img src="https://img.shields.io/badge/Maltego-%23FFD700.svg?style=for-the-badge&logo=maltego&logoColor=black" alt="Maltego"/>
-  <img src="https://img.shields.io/badge/SpiderFoot-%23000000.svg?style=for-the-badge&logo=spiderfoot&logoColor=white" alt="SpiderFoot"/>
-  <img src="https://img.shields.io/badge/Shodan-%23FF6F00.svg?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/>
+<img src="https://img.shields.io/badge/Kali_Linux-%23black.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/Nmap-%23FFB400.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-%232B4BDA.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/Google_Dorking-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Dorking"/>
+<img src="https://img.shields.io/badge/Maltego-%23FFD700.svg?style=for-the-badge&logo=maltego&logoColor=black" alt="Maltego"/>
+<img src="https://img.shields.io/badge/Shodan-%23FF6F00.svg?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/>
+
 
 
 
