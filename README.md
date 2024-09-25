@@ -6,31 +6,10 @@ Hello, I am Mubbashirul — a 24-year-old self-taught Cybersecurity Enthusiast. 
 
 
 ### Tools & Technologies for Cybersecurity Research
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux.svg" alt="Linux" width="60" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali.svg" alt="Kali Linux" width="60" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Metasploit.svg" alt="Metasploit" width="60" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Nmap.svg" alt="Nmap" width="60" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Wireshark.svg" alt="Wireshark" width="60" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Tor.svg" alt="Tor" width="60" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VirtualBox.svg" alt="VirtualBox" width="60" height="60"/>
-</div>
+[![Cybersecurity Tools](https://skillicons.dev/icons?i=linux,kali,metasploit,nmap,wireshark,tor,virtualbox)](https://skillicons.dev)
 
 ### Tools & Technologies for OSINT
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python.svg" alt="Python" width="60" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash.svg" alt="Bash" width="60" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Maltego.svg" alt="Maltego" width="60" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Recon-ng.svg" alt="Recon-ng" width="60" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Shodan.svg" alt="Shodan" width="60" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/The_Harvester.svg" alt="The Harvester" width="60" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spiderfoot.svg" alt="Spiderfoot" width="60" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DNSDumpster.svg" alt="DNSDumpster" width="60" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Google.svg" alt="Google Dorking" width="60" height="60"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Social_Engineering.svg" alt="Social Engineering" width="60" height="60"/>
-</div>
-
-
+[![OSINT Tools](https://skillicons.dev/icons?i=python,bash,maltego,recon-ng,shodan,theharvester,spiderfoot,dnsdumpster,google,socialengineering)](https://skillicons.dev)
 
 
 
