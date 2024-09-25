@@ -6,27 +6,30 @@ Hello, I am Mubbashirul — a 24-year-old self-taught Cybersecurity Enthusiast. 
 
 
 ### Tools & Technologies for Cybersecurity Research
-
-- ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-- ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23000000.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
-- ![Metasploit](https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white)
-- ![Nmap](https://img.shields.io/badge/Nmap-%23FFB400.svg?style=for-the-badge&logo=nmap&logoColor=white)
-- ![Wireshark](https://img.shields.io/badge/Wireshark-%232B4BDA.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-- ![Tor](https://img.shields.io/badge/Tor-%23000000.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-- ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-%23black.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Nmap-%23FFB400.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Wireshark-%232B4BDA.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Tor-%23000000.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tor"/>
+  <img src="https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+</div>
 
 ### Tools & Technologies for OSINT
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Maltego-%23000000.svg?style=for-the-badge&logo=maltego&logoColor=white" alt="Maltego"/>
+  <img src="https://img.shields.io/badge/Recon--ng-%23000000.svg?style=for-the-badge&logo=recon-ng&logoColor=white" alt="Recon-ng"/>
+  <img src="https://img.shields.io/badge/Shodan-%23000000.svg?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/>
+  <img src="https://img.shields.io/badge/The_Harvester-%23000000.svg?style=for-the-badge&logo=the-harvester&logoColor=white" alt="The Harvester"/>
+  <img src="https://img.shields.io/badge/Spiderfoot-%23000000.svg?style=for-the-badge&logo=spiderfoot&logoColor=white" alt="Spiderfoot"/>
+  <img src="https://img.shields.io/badge/DNSDumpster-%23000000.svg?style=for-the-badge&logo=dnsdumpster&logoColor=white" alt="DNSDumpster"/>
+  <img src="https://img.shields.io/badge/Google_Dorking-%23000000.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Dorking"/>
+  <img src="https://img.shields.io/badge/Social_Engineering-%23000000.svg?style=for-the-badge&logo=security&logoColor=white" alt="Social Engineering"/>
+</div>
 
-- ![Python](https://img.shields.io/badge/Python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white)
-- ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- ![Maltego](https://img.shields.io/badge/Maltego-%23000000.svg?style=for-the-badge&logo=maltego&logoColor=white)
-- ![Recon-ng](https://img.shields.io/badge/Recon--ng-%23000000.svg?style=for-the-badge&logo=recon-ng&logoColor=white)
-- ![Shodan](https://img.shields.io/badge/Shodan-%23000000.svg?style=for-the-badge&logo=shodan&logoColor=white)
-- ![The Harvester](https://img.shields.io/badge/The_Harvester-%23000000.svg?style=for-the-badge&logo=the-harvester&logoColor=white)
-- ![Spiderfoot](https://img.shields.io/badge/Spiderfoot-%23000000.svg?style=for-the-badge&logo=spiderfoot&logoColor=white)
-- ![DNSDumpster](https://img.shields.io/badge/DNSDumpster-%23000000.svg?style=for-the-badge&logo=dnsdumpster&logoColor=white)
-- ![Google Dorking](https://img.shields.io/badge/Google_Dorking-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)
-- ![Social Engineering](https://img.shields.io/badge/Social_Engineering-%23000000.svg?style=for-the-badge&logo=security&logoColor=white)
 
 
 
