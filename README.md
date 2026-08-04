@@ -2,7 +2,7 @@
   <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRqNnRxNGdiaDNlMGZlaTdkZnJna3E2Z2JhN2hncTZwbTI5NXk1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W3klTgJuKy5vymEoe7/giphy.gif" />
   
   #  About Me
-Hello, Its Mubbashirul, a 24-year-old Cybersecurity Enthusiast. I have dedicated myself to mastering various aspects of cybersecurity to understand potential threats and vulnerabilities. I focus on studying how different cyberattacks work and applying my knowledge to keep systems safe from malware, privacy breaches, and other online risks. Through personal study and hands-on experience, I aim to develop practical skills that contribute to a safer digital environment.
+Hello. I'm Mubbashirul. I study how systems break, how attackers think, and why security fails. Every vulnerability tells a story and I just prefer reading it before someone else writes the ending.
 
 
   # Tools & Technologies
