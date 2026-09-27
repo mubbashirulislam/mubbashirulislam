@@ -1,20 +1,45 @@
-# MAX
+<div align="center">
+  <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRqNnRxNGdiaDNlMGZlaTdkZnJna3E2Z2JhN2hncTZwbTI5NXk1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W3klTgJuKy5vymEoe7/giphy.gif" />
+  
+  #  About Me
+Hello. I'm Mubbashirul. I study how systems break, how attackers think, and why security fails. Every vulnerability tells a story and I just prefer reading it before someone else writes the ending.
 
-**Video editor · Creative systems · Small tools**
 
-I'm Max, a video editor based in Dhaka, Bangladesh. I work on short-form ads, VSLs, and social content for service businesses. My editing focuses on clear hooks, believable visuals, and pacing that serves the message. I also build small tools and web experiences to make creative work easier.
+  # Tools & Technologies
 
-[Portfolio website](https://mubbashirulislam.github.io/) · [Portfolio source](https://github.com/mubbashirulislam/mubbashirulislam.github.io)
+<img src="https://img.shields.io/badge/Kali_Linux-%23000000.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>  <!-- Black Kali Linux Badge -->
+<img src="https://img.shields.io/badge/Python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  <!-- Python Badge -->
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>  <!-- JavaScript Badge -->
+<img src="https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>  <!-- Black Bash Badge -->
+<img src="https://img.shields.io/badge/Nmap-%23FFB400.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>  <!-- Nmap Badge -->
+<img src="https://img.shields.io/badge/Wireshark-%232B4BDA.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/> 
+<img src="https://img.shields.io/badge/Maltego-%23FFD700.svg?style=for-the-badge&logo=maltego&logoColor=black" alt="Maltego"/> <!-- Wireshark Badge --><!-- Metasploit Badge -->
+<img src="https://img.shields.io/badge/Google_Dorking-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Dorking"/> 
+<img src="https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/> <!-- Google Dorking Badge --><!-- Maltego Badge -->
+<img src="https://img.shields.io/badge/Shodan-%23FF6F00.svg?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/>  <!-- Shodan Badge -->
+<img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>  <!-- VSCode Badge -->
+<img src="https://img.shields.io/badge/Tor-%23000000.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tor"/> 
+<img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/> 
+<img src="https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/> 
 
-> Most client video samples are private. Reach out through the portfolio if you'd like to see relevant work.
 
-## Selected projects
 
-| Project | What I built |
-| --- | --- |
-| [Video editing portfolio](https://github.com/mubbashirulislam/mubbashirulislam.github.io) | A static portfolio site for my editing work. |
-| [X3gesture](https://github.com/mubbashirulislam/X3gesture) | A Python and MediaPipe experiment for controlling desktop actions with hand gestures. |
-| [X3-TOOLS](https://github.com/mubbashirulislam/X3-TOOLS) | A terminal-based Windows software installer built around `winget`. |
-| [X3-DNS](https://github.com/mubbashirulislam/X3-DNS) | A tool for checking DNS and email-authentication records such as SPF, DKIM, and DMARC. |
 
-I started with cybersecurity projects and still enjoy building practical tools. These days, my main work is video editing and creative production.
+
+
+
+
+ 
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubbashirulislam&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages"/>
+   <br/><br/>
+  
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubbashirulislam&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <br/><br/>
+
+  
+  ---
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=mubbashirulislam&icon=0&color=0" alt="Visitor Count"/></a>
+</div>
